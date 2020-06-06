@@ -1,8 +1,14 @@
 # 24 Pin 0.5mm Pitch FFC Breakout
 
+A simple and breadboard-ready breakout.
+
+Philipp Schilk, 2020
+
+https://github.com/TheSchilk/FFC_24Pin_P0.5mm_Breakout
+
 ![Render](https://github.com/TheSchilk/FFC_24Pin_P0.5mm_Breakout/blob/master/Doc/Render.jpg)
 
-A simple and breadboard-ready breakout.
+
 
 Should fit into any breadboard with the two pin-header rows. 
 
@@ -16,7 +22,7 @@ CKMTW  C132514 ([Lcsc.com](https://lcsc.com/product-detail/FFC-FPC-Connectors_Ck
 And probably many others...
 
 ## JLCpcb Note:
-When ordering these from JLCpcb (ready zip in Kicad/FFC_24Pin_P0.5mm_Breakout/Gerber), select
+When ordering these from JLCpcb (ready zip in releases), select
 '2 Layer' instead of '1 Layer'. It is much cheaper. Also I am not sure you would get a pad
 on both sides of the pin-header holes. 
 
